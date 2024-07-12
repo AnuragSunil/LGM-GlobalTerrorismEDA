@@ -63,6 +63,10 @@ The dataset used for this analysis contains information about terrorist attacks 
 ### Year-Specific Analysis:
    - Distribution of attacks in 2007 and comparison with global distribution.
 
+## Acknowledgements
+
+This project was completed as part of the internship program at Let's Grow More. Special thanks to the Let's Grow More team for their guidance and support.
+
 ## How to Run
 
 1. Clone the repository:
