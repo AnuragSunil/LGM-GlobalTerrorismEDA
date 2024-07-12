@@ -71,4 +71,4 @@ This project was completed as part of the internship program at Let's Grow More.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/AnuragSuni1/Terrorism-EDA.git
+   git clone https://github.com/AnuragSunil/LGMVIP-DataScience-Intermediate-1.git
